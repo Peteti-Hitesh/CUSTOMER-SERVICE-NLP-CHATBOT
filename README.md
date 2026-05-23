@@ -1,18 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="Hitesh Studio Banner" />
-</div>
+# @babel/code-frame
 
-# Run and deploy your Hitesh Studio app
+> Generate errors that contain a code frame that point to source locations.
 
-This contains everything you need to run your app locally.
+See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
 
-## Run Locally
+## Install
 
-**Prerequisites:**  Node.js
+Using npm:
 
+```sh
+npm install --save-dev @babel/code-frame
+```
 
-1. Install dependencies:
-   `npm install`
-2. Set the  in [.env.local](.env.local) 
-3. Run the app:
-   `npm run dev`
+or using yarn:
+
+```sh
+yarn add @babel/code-frame --dev
+```

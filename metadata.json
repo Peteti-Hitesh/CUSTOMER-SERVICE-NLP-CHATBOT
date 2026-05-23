@@ -1,0 +1,6 @@
+{
+  "name": "customer-service-nlp-chatbot",
+  "description": "An interactive rule-based and simple NLP e-commerce chatbot with live tokenization, TF-IDF, and string similarity visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

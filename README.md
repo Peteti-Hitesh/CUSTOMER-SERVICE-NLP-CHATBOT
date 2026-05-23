@@ -1,19 +1,3 @@
-# @babel/code-frame
+# esbuild
 
-> Generate errors that contain a code frame that point to source locations.
-
-See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
-
-## Install
-
-Using npm:
-
-```sh
-npm install --save-dev @babel/code-frame
-```
-
-or using yarn:
-
-```sh
-yarn add @babel/code-frame --dev
-```
+This is the Windows 64-bit binary for esbuild, a JavaScript bundler and minifier. See https://github.com/evanw/esbuild for details.

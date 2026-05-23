@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Hitesh Studio Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="Hitesh Studio Banner" />
 </div>
 
 # Run and deploy your Hitesh Studio app
@@ -15,6 +15,6 @@ View your app in Hitesh Studio: https://ai.studio/apps/361b8f05-e7a7-477d-94d7-f
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the  in [.env.local](.env.local) 
 3. Run the app:
    `npm run dev`

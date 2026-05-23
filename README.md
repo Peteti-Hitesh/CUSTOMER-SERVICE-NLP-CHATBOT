@@ -6,8 +6,6 @@
 
 This contains everything you need to run your app locally.
 
-View your app in Hitesh Studio: https://ai.studio/apps/361b8f05-e7a7-477d-94d7-ff7dd31c18f8
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
